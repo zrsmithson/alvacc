@@ -45,6 +45,13 @@ optional arguments:
 ## Installation
 This package can be installed or just run directly from the repo folder. Beyond Python 3+, the only package requirement is `PyYAML`
 
+The easiest way to install is using [the version on PyPi](https://pypi.org/project/alvacc/)
+```
+pip install alvacc
+```
+
+Or install from source by downloading from github:
+
 Clone
 ```
 git@github.com:zrsmithson/alvacc.git
